@@ -1,4 +1,5 @@
 body{
-    background: linear-gradient(pink, gray);
-    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ57wfuc4ZJUWdW7-VUKCbGBlWXv3ySnfbjEW9ie60RPTRScqGMGUGbgIQO9FBzD8ilkk8&usqp=CAU");
+    text-align: center;
+    background-repeat: no-repeat;
 }
